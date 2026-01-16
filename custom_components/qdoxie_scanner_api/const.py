@@ -1,6 +1,16 @@
 """Constants for qdoxie-scanner-api integration."""
 
+from __future__ import annotations
+
+from homeassistant.const import Platform
+
 DOMAIN = "qdoxie_scanner_api"
+
+# Home Assistant platforms provided by this integration.
+PLATFORMS: list[Platform] = [Platform.SENSOR]
+
+# Home Assistant services
+SERVICE_SYNC_NOW = "sync_now"
 
 # Doxie
 CONF_DOXIE_HOST = "doxie_host"
