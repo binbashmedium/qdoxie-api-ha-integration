@@ -1,4 +1,4 @@
-"""Config flow for Doxie -> Paperless-ngx integration."""
+"""Config flow for qdoxie-scanner-api integration."""
 
 from __future__ import annotations
 
