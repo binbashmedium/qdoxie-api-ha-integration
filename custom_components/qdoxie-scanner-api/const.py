@@ -1,6 +1,6 @@
 """Constants for qdoxie-scanner-api integration."""
 
-DOMAIN = "doxie_paperless"
+DOMAIN = "qdoxie-scanner-api"
 
 CONF_DOXIE_HOST = "doxie_host"
 CONF_DOXIE_PORT = "doxie_port"
