@@ -1,0 +1,3 @@
+sync_now:
+  name: Sync now
+  description: Check the Doxie scanner once and process the newest scan (upload to Paperless or write to consume dir).
