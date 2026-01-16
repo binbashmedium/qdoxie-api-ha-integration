@@ -1,0 +1,5 @@
+{
+  "name": "QDoxie DX300 Scanner Integration",
+  "render_readme": true,
+  "domains": ["qdoxie-scanner-api"]
+}
