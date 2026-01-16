@@ -1,7 +1,7 @@
 {
   "domain": "qdoxie-scanner-api",
   "name": "QDoxie Scanner API",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "documentation": "https://github.com/binbashmedium/qdoxie-api-ha-integration",
   "issue_tracker": "https://github.com/binbashmedium/qdoxie-api-ha-integration/issues",
   "config_flow": true,
