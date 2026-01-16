@@ -1,4 +1,4 @@
-"""Constants for Doxie -> Paperless-ngx integration."""
+"""Constants for qdoxie-scanner-api integration."""
 
 DOMAIN = "doxie_paperless"
 
