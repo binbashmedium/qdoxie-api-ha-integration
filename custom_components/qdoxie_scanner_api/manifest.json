@@ -1,5 +1,5 @@
 {
-  "domain": "qdoxie-scanner-api",
+  "domain": "qdoxie_scanner_api",
   "name": "QDoxie Scanner API",
   "version": "0.1.2",
   "documentation": "https://github.com/binbashmedium/qdoxie-api-ha-integration",

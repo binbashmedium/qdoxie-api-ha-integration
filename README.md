@@ -14,7 +14,7 @@ oder Ablage in einem Consume-Ordner.
   - Geräteinformationen
 
 ## Installation
-1. Repository nach `custom_components/qdoxie` kopieren
+1. Repository nach `custom_components/qdoxie_scanner_api` kopieren
 2. Home Assistant neu starten
 3. Integration über UI hinzufügen
 
@@ -31,7 +31,3 @@ oder Ablage in einem Consume-Ordner.
 ## Services
 - `qdoxie.sync_now` – manueller Import
 
-## Troubleshooting
-### Config flow could not be loaded
-- Domain in `manifest.json` und `config_flow.py` müssen identisch sein
-- Home Assistant neu starten
